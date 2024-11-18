@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name is Rodrigo Calderon, I am a postdoctoral researcher working on various aspects of Physical Cosmology at the Institute of Physics of the Czech Academy of Sciences.
 
+- 🔭 I’m currently working on constraining dark energy and modified gravity theories using the latest observational data.
+- 📫 How to reach me: calderon.cosmology@gmail.com
 <!--
 **rcalderonb6/rcalderonb6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
